@@ -1,0 +1,8 @@
+"0","library(tidyr)"
+"0","library(dplyr)"
+"0","library(ggplot2)"
+"0",""
+"0","country_profile_variables <- read.csv(""country_profile_variables.csv"")"
+"2","cannot open file 'country_profile_variables.csv': No such file or directory"
+"2","Error in file(file, ""rt"") : cannot open the connection
+"

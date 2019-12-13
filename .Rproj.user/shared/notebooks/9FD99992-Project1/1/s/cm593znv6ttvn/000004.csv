@@ -1,0 +1,4 @@
+"0",""
+"0","join <- join %>% select(-Whisker.high, -Whisker.low)"
+"0","join <- join %>% separate(life.expect, into=c(""life_fem"", ""life_male""), sep = ""/"")"
+"0",""

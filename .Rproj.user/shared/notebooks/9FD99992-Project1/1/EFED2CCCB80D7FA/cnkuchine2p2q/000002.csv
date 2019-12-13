@@ -1,0 +1,11 @@
+"0","library(tidyr)"
+"0","library(dplyr)"
+"0","library(ggplot2)"
+"0",""
+"0","happiness<-(""./happiness/"")"
+"2","Error: Incomplete expression: library(tidyr)
+library(dplyr)
+library(ggplot2)
+
+happiness<-(""./happiness/"")
+"

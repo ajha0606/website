@@ -1,0 +1,4 @@
+"0","join <- join%>% group_by(region) %>% mutate(mean_happiness=mean(happiness1), mean_GDP=mean(Economy..GDP.per.Capita.))"
+"0",""
+"0","region_happy <- join %>% group_by(region)  %>% arrange(mean_happiness) %>% select(region, mean_happiness)"
+"0","distinct(region_happy)"

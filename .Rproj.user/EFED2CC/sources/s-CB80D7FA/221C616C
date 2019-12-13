@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1576259296739.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "221C616C",
+    "lastKnownWriteTime" : 8750331831131663989,
+    "last_content_update" : 1576259296739,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "459136FA",
+        "caption" : "chiao",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=chiao&cache_key=459136FA",
+        "displayedObservations" : 229,
+        "environment" : "",
+        "expression" : "chiao",
+        "object" : "chiao",
+        "preview" : 0,
+        "totalObservations" : 229,
+        "variables" : 6
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1576256639609.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "444457246",
+    "id" : "A79B747E",
+    "lastKnownWriteTime" : 1576256639,
+    "last_content_update" : 1576256639,
+    "path" : "~/Desktop/website/website/content/blog/2019-12-13-blogpost.Rmd",
+    "project_path" : "content/blog/2019-12-13-blogpost.Rmd",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
