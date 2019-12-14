@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1576276717258.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CAACF863",
+    "lastKnownWriteTime" : 4478126371,
+    "last_content_update" : 1576276717258,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "D56638E7",
+        "caption" : "country_profile_variables",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=country_profile_variables&cache_key=D56638E7",
+        "displayedObservations" : 230,
+        "environment" : "",
+        "expression" : "country_profile_variables",
+        "object" : "country_profile_variables",
+        "preview" : 0,
+        "totalObservations" : 230,
+        "variables" : 50
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 12,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,1 @@
+"0","ggplot(join, aes(x=Happiness.Rank, y=Trust..Government.Corruption.)) + geom_point() + theme(legend.position = ""none"") + geom_smooth() + theme_minimal()"

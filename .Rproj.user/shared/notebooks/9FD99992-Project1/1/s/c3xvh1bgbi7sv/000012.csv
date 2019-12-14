@@ -1,0 +1,6 @@
+"0","hap <- pivot_wider(`happiness`, names_from = Happiness.Score, values_from = Country)"
+"0","happy <- hap %>% pivot_longer(11:161, names_to = ""happinesss"", values_to = ""country"") %>% na.omit"
+"0",""
+"0","chiao <- country_profile_variables %>% mutate(country=V1, region=V2, population_thousands=V4, GDP=V7, unemployment.percent=V16, life.expect=V28) %>% select(51:56) %>% slice(-1)"
+"2","Error: object 'V1' not found
+"

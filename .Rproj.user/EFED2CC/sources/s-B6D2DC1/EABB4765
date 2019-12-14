@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1576275766603.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EABB4765",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1576275766603,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "D71DF5A9",
+        "caption" : "insurance",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=insurance&cache_key=D71DF5A9",
+        "displayedObservations" : 1338,
+        "environment" : "",
+        "expression" : "insurance",
+        "object" : "insurance",
+        "preview" : 0,
+        "totalObservations" : 1338,
+        "variables" : 7
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 11,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

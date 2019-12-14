@@ -26,7 +26,29 @@
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
       <guid>/projects/</guid>
-      <description></description>
+      <description>Projects Here are some projects I have been working on:
+  Project 1
+  Project 2
+  </description>
+    </item>
+    
+    <item>
+      <title>Project 2: Modeling, Testing, and Predicting</title>
+      <link>/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project2/</guid>
+      <description>This dataset compiled information from 1338 individuals. Information on age, sex, bmi, number of children, whether they were smokers, the region of the country in which they lived, and how much health insurance companies charged these individuals in order for them to be insured was collected for each individual.
+library(sandwich); library(lmtest) insurance&amp;lt;-read.csv(&amp;quot;insurance.csv&amp;quot;) man&amp;lt;-manova(cbind(bmi,charges)~sex, data=insurance) summary(man) ## Df Pillai approx F num Df den Df Pr(&amp;gt;F) ## sex 1 0.0045581 3.</description>
+    </item>
+    
+    <item>
+      <title>project1</title>
+      <link>/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project1/</guid>
+      <description>Alexis Ha ah48766 library(tidyr) library(dplyr) library(ggplot2) happiness &amp;lt;- read.csv(&amp;quot;2017.csv&amp;quot;) country_profile_variables &amp;lt;- read.csv(&amp;quot;country_profile_variables.csv&amp;quot;) The country_profile_variable dataset provides information on 229 countries. This information includes population, surface area, GDP, life expectancy, rates of employment/unemployment, etc. The happiness dataset also provides information on countries around the world, some of which is not included in the country_profile_variables dataset, such as average happiness, freedom, government corruption, and family. These two datasets can be analyzed together to determine if there are any correlations between these variables and the average happiness of each country.</description>
     </item>
     
   </channel>
